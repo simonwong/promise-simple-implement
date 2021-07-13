@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "my-promise",
+  "license": "MIT",
+  "scripts": {
+    "test": "promises-aplus-tests test/adapter"
+  },
+  "dependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
