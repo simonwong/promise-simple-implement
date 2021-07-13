@@ -9,3 +9,8 @@
 [Promises/A+ 标准](https://promisesaplus.com/)
 
 [Promises/A+ 标准中文翻译](https://github.com/lingirlsea/promisesaplus)
+
+
+## 流程图
+
+![](http://file.wangsijie.top/blog/20210713162548.png)
